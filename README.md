@@ -1,1 +1,3 @@
-# blog_ctf
+# Blog CTF
+
+Refer to the PDF.
